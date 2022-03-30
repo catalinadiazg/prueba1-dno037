@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Finn Mertens",
+		"img": "https://raw.githubusercontent.com/catalinadiazg/prueba1-dno037/main/personajes/finn.png"
+	},
+	{
+		"name": "Jake",
+		"img": "https://raw.githubusercontent.com/catalinadiazg/prueba1-dno037/main/personajes/jake.png"
+	},
+	{
+		"name": "Rey Helado",
+		"img": "https://raw.githubusercontent.com/catalinadiazg/prueba1-dno037/main/personajes/rey%20helado.png"
+	},
+	{
+		"name": "Marceline Abadeer",
+		"img": "https://raw.githubusercontent.com/catalinadiazg/prueba1-dno037/main/personajes/marcelineabadeer.png"
+	},
+  {
+  "name": "Dulce Princesa",
+  "img": "https://raw.githubusercontent.com/catalinadiazg/prueba1-dno037/main/personajes/dulce%20princesa.png"
+  },
+  {
+  "name": "BMO",
+  "img": "https://raw.githubusercontent.com/catalinadiazg/prueba1-dno037/main/personajes/bmo.png"
+  }
+]
