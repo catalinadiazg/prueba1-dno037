@@ -11,3 +11,8 @@ Isidora, 22 años, estudiante, HP Omen
 
 Sofía, 20 años, estudiante, Macbook Air
 ![mi_atacazo_artistico (7)](https://user-images.githubusercontent.com/101232753/160872061-2c9791f7-5151-45d7-a6af-28047f5c4136.jpg)
+
+Domingo, 21 años, estudiante, desde un celular
+![WhatsApp Image 2022-03-30 at 12 26 37 (1)](https://user-images.githubusercontent.com/101232753/160872637-59cac1de-2679-49c5-b07b-73de5d9e5750.jpeg)
+
+
