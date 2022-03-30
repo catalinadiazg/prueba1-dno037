@@ -1,5 +1,8 @@
 # prueba1-dno037
 
+Yo
+![mi_atacazo_artistico (6)](https://user-images.githubusercontent.com/101232753/160861033-acf58626-badf-4712-ad04-ee652e818dcb.jpg)
+
 Dusanka, 22 años, estudiante. Asus Vivobook
 ![WhatsApp Image 2022-03-30 at 11 13 03](https://user-images.githubusercontent.com/101232753/160860212-f9cb76ca-2450-4eeb-801b-72b957e9ced5.jpeg)
 
